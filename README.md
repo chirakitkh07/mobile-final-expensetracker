@@ -68,3 +68,30 @@ flutter run -d chrome   # Web
 flutter build apk          # Android
 flutter build ios          # iOS (ต้องใช้ macOS)
 ```
+### หน้าหลัก
+
+<img src="images/หน้าหลัก.png">
+
+### หน้ารายการจ่าย
+
+<img src="images/รายการจ่าย.png">
+
+### แก้ไขรายการ
+
+<img src="images/แก้ไขรายการ.png">
+
+### เพิ่มรายการ
+
+<img src="images/เพิ่มรายการ.png>
+
+### ลบรายการ
+
+<img src="images/ลบไขรายการ.png">
+
+### หมวดหมู่
+
+<img src="images/หมวดหมู่.png">
+
+### หน้าว่าง
+
+<img src="images/หน้าว่าง.png">
